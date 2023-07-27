@@ -6,7 +6,7 @@
 
   <groupId>Flipkart</groupId>
   <artifactId>Admin</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-REALESE</version>
   <packaging>war</packaging>
 
   <name>Admin Maven Webapp</name>
